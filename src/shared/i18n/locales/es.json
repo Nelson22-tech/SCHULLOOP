@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "Global School Finder",
+    "ok": "Aceptar",
+    "cancel": "Cancelar",
+    "retry": "Reintentar",
+    "loading": "Cargando...",
+    "save": "Guardar",
+    "or": "O"
+  },
+  "login": {
+    "welcomeBack": "Bienvenido de nuevo",
+    "signInToContinue": "Inicia sesión para continuar",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "tucorreo@ejemplo.com",
+    "passwordLabel": "Contraseña",
+    "passwordPlaceholder": "Introduce tu contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "signIn": "Iniciar sesión",
+    "signingIn": "Iniciando sesión...",
+    "noAccount": "¿No tienes una cuenta? ",
+    "signUp": "Regístrate",
+    "disclaimer": "Al iniciar sesión, aceptas nuestros Términos de servicio y Política de privacidad",
+    "errorEmailRequired": "El correo electrónico es obligatorio",
+    "errorEmailInvalid": "Correo electrónico no válido",
+    "errorPasswordRequired": "La contraseña es obligatoria",
+    "errorPasswordTooShort": "La contraseña debe tener al menos 6 caracteres",
+    "loginFailedTitle": "Error al iniciar sesión"
+  },
+  "settings": {
+    "title": "Configuración",
+    "subtitle": "Cuenta y privacidad",
+    "language": "Idioma",
+    "signOut": "Cerrar sesión",
+    "restartNotice": "La aplicación necesita reiniciarse para terminar de cambiar de idioma."
+  }
+}

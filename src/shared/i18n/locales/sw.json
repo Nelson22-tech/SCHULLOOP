@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "Global School Finder",
+    "ok": "Sawa",
+    "cancel": "Ghairi",
+    "retry": "Jaribu tena",
+    "loading": "Inapakia...",
+    "save": "Hifadhi",
+    "or": "AU"
+  },
+  "login": {
+    "welcomeBack": "Karibu tena",
+    "signInToContinue": "Ingia ili kuendelea",
+    "emailLabel": "Barua pepe",
+    "emailPlaceholder": "wewe@barua.com",
+    "passwordLabel": "Nenosiri",
+    "passwordPlaceholder": "Weka nenosiri lako",
+    "forgotPassword": "Umesahau nenosiri?",
+    "signIn": "Ingia",
+    "signingIn": "Inaingia...",
+    "noAccount": "Huna akaunti? ",
+    "signUp": "Jisajili",
+    "disclaimer": "Kwa kuingia, unakubali Masharti ya Huduma na Sera ya Faragha",
+    "errorEmailRequired": "Barua pepe inahitajika",
+    "errorEmailInvalid": "Barua pepe si sahihi",
+    "errorPasswordRequired": "Nenosiri linahitajika",
+    "errorPasswordTooShort": "Nenosiri lazima liwe na herufi 6 au zaidi",
+    "loginFailedTitle": "Kuingia kumeshindwa"
+  },
+  "settings": {
+    "title": "Mipangilio",
+    "subtitle": "Akaunti na faragha",
+    "language": "Lugha",
+    "signOut": "Toka",
+    "restartNotice": "Programu inahitaji kuwashwa upya ili kukamilisha kubadilisha lugha."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "expo": {
+    "name": "SchulLoop",
+    "slug": "schulloop",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "schulloop",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "SchulLoop uses your location to find nearby schools.",
+        "NSCameraUsageDescription": "SchulLoop uses your camera when you choose to upload school or profile media."
+      },
+      "bundleIdentifier": "com.schulloop.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/android-icon-background.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.schulloop.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "CAMERA",
+        "VIBRATE",
+        "INTERNET"
+      ],
+      "versionCode": 20
+    },
+    "web": {
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "enableBackgroundRemoteNotifications": true
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "SchulLoop uses your location to find nearby schools."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "SchulLoop uses your photos when you choose to upload profile, school or career media.",
+          "cameraPermission": "SchulLoop uses your camera when you choose to take a photo."
+        }
+      ],
+      [
+        "expo-document-picker"
+      ],
+      [
+        "expo-localization"
+      ]
+    ],
+    "experiments": {
+      "reactCompiler": false
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "description": "SchulLoop — Smart Global Education & Student Platform",
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_WITH_YOUR_EAS_PROJECT_ID"
+      }
+    }
+  }
+}

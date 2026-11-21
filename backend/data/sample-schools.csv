@@ -1,0 +1,13 @@
+id,name,country,region,city,level,latitude,longitude
+S001,Government Bilingual Primary School Molyko,Cameroon,South-West,Buea,Primary,4.1560,9.2920
+S002,Government Bilingual High School Buea,Cameroon,South-West,Buea,Secondary,4.1535,9.2410
+S003,University of Buea,Cameroon,South-West,Buea,University,4.1447,9.2905
+S004,Sunrise Nursery School,Cameroon,Littoral,Douala,Nursery,4.0511,9.7679
+S005,Lycee Classique de Yaounde,Cameroon,Centre,Yaounde,Secondary,3.8667,11.5167
+S006,University of Lagos,Nigeria,Lagos,Lagos,University,6.5158,3.3896
+S007,Kings College Lagos,Nigeria,Lagos,Lagos,Secondary,6.4500,3.3958
+S008,Achimota School,Ghana,Greater Accra,Accra,Secondary,5.6350,-0.2300
+S009,University of Nairobi,Kenya,Nairobi,Nairobi,University,-1.2800,36.8170
+S010,Riverside Elementary,United States,California,Sacramento,Primary,38.5816,-121.4944
+S011,Oxford Primary Academy,United Kingdom,England,Oxford,Primary,51.7520,-1.2577
+S012,Lycee Louis-le-Grand,France,Ile-de-France,Paris,Secondary,48.8483,2.3441

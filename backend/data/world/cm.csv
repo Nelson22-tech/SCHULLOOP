@@ -1,0 +1,6 @@
+id,name,country,region,city,level,latitude,longitude
+osm_node_1,GBHS Molyko,Cameroon,South-West,Buea,Secondary,4.150000,9.250000
+osm_way_2,Ecole Primaire de Bonaberi,Cameroon,Littoral,Douala,Primary,4.060000,9.770000
+osm_node_3,"Les Petits, ""Bilingual"" Nursery",Cameroon,Centre,Yaounde,Nursery,3.860000,11.510000
+osm_relation_4,University of Buea,Cameroon,South-West,Buea,University,4.140000,9.290000
+osm_node_6,Village School Far From Anything,Cameroon,,,Other,7.000000,12.000000

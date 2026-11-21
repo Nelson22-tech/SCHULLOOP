@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "Global School Finder",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "loading": "Loading...",
+    "save": "Save",
+    "or": "OR"
+  },
+  "login": {
+    "welcomeBack": "Welcome Back",
+    "signInToContinue": "Sign in to continue",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "your@email.com",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "noAccount": "Don't have an account? ",
+    "signUp": "Sign Up",
+    "disclaimer": "By signing in, you agree to our Terms of Service and Privacy Policy",
+    "errorEmailRequired": "Email is required",
+    "errorEmailInvalid": "Invalid email",
+    "errorPasswordRequired": "Password is required",
+    "errorPasswordTooShort": "Password must be at least 6 characters",
+    "loginFailedTitle": "Login Failed"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Account and privacy",
+    "language": "Language",
+    "signOut": "Sign Out",
+    "restartNotice": "The app needs to restart to finish switching to this language."
+  }
+}

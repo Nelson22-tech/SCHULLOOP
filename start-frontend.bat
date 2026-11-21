@@ -1,0 +1,3 @@
+@echo off
+echo Starting SchulLoop Frontend on Web...
+npm start
